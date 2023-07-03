@@ -9,28 +9,28 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matcacabuena&show_icons=true&theme=tokyonight" alt="" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcacabuena&layout=compact&theme=tokyonight" alt="" /></a>
   <div style="display: inline_block">
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
             <img alt="Badge-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
             <img alt="Badge-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     </a>
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://react.dev/">
             <img alt="Badge-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     </a>
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://flutter.dev/">
             <img alt="Badge-Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     </a>
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://www.typescriptlang.org/">
             <img alt="Badge-Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     </a> 
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
             <img alt="Badge-Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     </a>
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://dart.dev/">
             <img alt="Badge-Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
     </a>
-    <a href="https://pt.wikipedia.org/wiki/HTML">
+    <a href="https://www.java.com/pt-BR/download/help/whatis_java.html#:~:text=Java%20%C3%A9%20uma%20linguagem%20de,servi%C3%A7os%20e%20aplicativos%20s%C3%A3o%20desenvolvidos.">
             <img alt="Badge-Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     </a> 
   </div>
