@@ -6,8 +6,8 @@
 <h2>Stats and Known Languages</h2>
 <div align="center">
     <a href="https://github.com/matcacabuena?tab=repositories" target="_blank">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matcacabuena&show_icons=true&theme=tokyonight&rank_icon=github" alt="" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcacabuena&layout=compact&theme=tokyonight" alt="" /></a>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matcacabuena&show_icons=true&theme=tokyonight&rank_icon=github" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matcacabuena&layout=compact&theme=tokyonight" /></a>
   <div style="display: inline_block">
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
             <img alt="Badge-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
