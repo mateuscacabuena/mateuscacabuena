@@ -1,6 +1,5 @@
 <div>
 <h1>Hey, I'm Mateus! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<!-- <img align="right" width="200" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47j40n1l9o9nnm7x8jog6vaudcwkzvesqissddlhws&ep=v1_gifs_search&rid=giphy.gif&ct=g"/> -->
 <p align="justify">I'm 19 years old and love technology, which inspires me to learn more every day. Actually, I'm at the fourth semester of the Software Engineering course at the <a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">Pontifical Catholic University of Rio Grande do Sul (PUCRS)</a>, you can access all my projects and learnings acquired in the <a href="https://github.com/mateuscacabuenaPUCRS" target="_blank">(/mateuscacabuenaPUCRS)</a> organization, made exclusively to document all my experiences earned in the university. In addition, I work as a Front-end developer at SoftKuka.</p>
 </div>
 <h2>Stats and Known Languages</h2>
