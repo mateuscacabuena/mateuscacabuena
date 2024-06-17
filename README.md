@@ -4,7 +4,7 @@
 > <p align="justify">I'm 20 years old and a technology enthusiast, which inspires me to learn more every day. Currently, I'm in the fifth semester of the Software Engineering program at Pontifícia Universidade Católica do Rio Grande do Sul (<a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">PUCRS</a>). You can access all my projects and acquired knowledge in the organization <a href="https://github.com/mateuscacabuenaPUCRS" target="_blank">(/mateuscacabuenaPUCRS)</a>, created exclusively to document all my university experiences. Additionally, I work as an intern at <a href="https://www.poatek.com/" target="_blank">Poatek</a>.</p>
 </div>
 <div align="center">
-<h2>Estatísticas e Tecnologias</h2>
+<h2>Statistics and Technologies</h2>
     <a href="https://github.com/mateuscacabuena?tab=repositories" target="_blank">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscacabuena&show_icons=true&theme=tokyonight&rank_icon=github" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscacabuena&layout=compact&theme=tokyonight" /></a>
@@ -36,7 +36,7 @@
   </div> 
 </div>
 <div align="center">
-<h2>Contate-me!</h2>
+<h2>Contact me!</h2>
     <a href="mailto:mateuscacabuena@gmail.com" target="_blank">
             <img alt="Badge-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a> 
