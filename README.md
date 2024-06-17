@@ -1,7 +1,7 @@
 <div>
-<h1>Olá, sou o Mateus! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hey, I'm Mateus! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-> <p align="justify">Tenho 20 anos e sou amante da tecnologia, o que me inspira a aprender mais a cada dia. Atualmente, estou no quinto semestre do curso de Engenharia de Software da Pontifícia Universidade Católica do Rio Grande do Sul (<a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">PUCRS</a>), você pode acessar todos os meus projetos e aprendizados adquiridos na organização <a href="https://github.com/mateuscacabuenaPUCRS" target="_blank">(/mateuscacabuenaPUCRS)</a>, feito exclusivamente para documentar todas minhas experiências adquiridas na universidade. Além disso, atuo como estagiário na <a href="https://www.poatek.com/" target="_blank">Poatek</a>.</p>
+> <p align="justify">I'm 20 years old and a technology enthusiast, which inspires me to learn more every day. Currently, I'm in the fifth semester of the Software Engineering program at Pontifícia Universidade Católica do Rio Grande do Sul (<a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">PUCRS</a>). You can access all my projects and acquired knowledge in the organization <a href="https://github.com/mateuscacabuenaPUCRS" target="_blank">(/mateuscacabuenaPUCRS)</a>, created exclusively to document all my university experiences. Additionally, I work as an intern at <a href="https://www.poatek.com/" target="_blank">Poatek</a>.</p>
 </div>
 <div align="center">
 <h2>Estatísticas e Tecnologias</h2>
