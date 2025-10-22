@@ -1,7 +1,7 @@
 <div>
 <h1>Hey, I'm Mateus! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-> <p align="justify">I'm 20 years old and a technology enthusiast, which inspires me to learn more every day. Currently, I'm in the 8th semester of the Software Engineering program at Pontifícia Universidade Católica do Rio Grande do Sul (<a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">PUCRS</a>). You can access all my projects and acquired knowledge in the organization <a href="https://github.com/mateuscacabuenaPUCRS" target="_blank">(/mateuscacabuenaPUCRS)</a>, created exclusively to document all my university experiences. Additionally, I work as a software engineer at <a href="https://www.telusdigital.com/" target="_blank">TELUS Digital</a>.</p>
+> <p align="justify">I'm 21 years old and a technology enthusiast, which inspires me to learn more every day. Currently, I'm in the 8th semester of the Software Engineering program at Pontifícia Universidade Católica do Rio Grande do Sul (<a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">PUCRS</a>). You can access all my projects and acquired knowledge in the organization <a href="https://github.com/mateuscacabuenaPUCRS" target="_blank">(/mateuscacabuenaPUCRS)</a>, created exclusively to document all my university experiences. Additionally, I work as a software engineer at <a href="https://www.telusdigital.com/" target="_blank">TELUS Digital</a>.</p>
 </div>
 <div align="center">
 <h2>Statistics and Technologies</h2>
